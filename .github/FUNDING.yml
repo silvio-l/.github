@@ -1,0 +1,4 @@
+# Default sponsor button for all @silvio-l repositories that don't define
+# their own .github/FUNDING.yml. A repo's own FUNDING.yml overrides this.
+github: [silvio-l]
+ko_fi: silviol
